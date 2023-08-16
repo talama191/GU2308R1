@@ -1,0 +1,15 @@
+E:\Teaching\GitProject\GU2308R1\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+E:\Teaching\GitProject\GU2308R1\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+E:\Teaching\GitProject\GU2308R1\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+E:\Teaching\GitProject\GU2308R1\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+E:\Teaching\GitProject\GU2308R1\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+E:\Teaching\GitProject\GU2308R1\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+E:\Teaching\GitProject\GU2308R1\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teaching\GitProject\GU2308R1\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+E:\Teaching\GitProject\GU2308R1\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+E:\Teaching\GitProject\GU2308R1\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Teaching\GitProject\GU2308R1\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+E:\Teaching\GitProject\GU2308R1\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+E:\Teaching\GitProject\GU2308R1\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+E:\Teaching\GitProject\GU2308R1\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+E:\Teaching\GitProject\GU2308R1\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
